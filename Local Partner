@@ -1,21 +1,28 @@
 - Local Partner
   API Construction:
-    - Login
-    - Register
-    - List Local Partner
-    - Profile
-    - Edit Profile
-    - Pengaturan
-    - Create Tour
-    - Detail Tour
-    - Upload Image Tour
+        - Login
+        - Register
+        - Get List Wilayah
+        - Upload File perusahaan (npwp, siup, dll)
+        - Forgot Password
+        - List Local Partner
+        - Profile
+        - Edit Profile
+        - Create Paket Perjalanan
+        - Detail Paket Perjalanan
+        - Upload Image Paket Perjalanan
+        - Get Tiket Available Paket Perjalanan
    
-Android: 
-    - Login
-    - Register
-    - Dashboard
-    - Profile
-    - Pengaturan
-    - Add Tour
-    - Form Add Tour
-    - 
+  Android: 
+        - Login
+        - Register
+        - forgot password
+        - Dashboard
+        - Profile
+        - Edit Profile
+        - Pengaturan
+        - Add Tour
+        - Form Input Perjalanan
+        - Detail Paket Perjlanan 
+        - List Permohonan Perjalanan
+        - Detail Permohonan Perjalanan
