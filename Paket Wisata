@@ -4,8 +4,8 @@ API:
 - Input Form Permohonan Perjalanan
 - Input WishList Paket Perjalanan
 - Get Detail Paket Perjalanan
-- Get Price Paket Perjalanan
-
+- Get Calculate Price Paket Perjalanan
+- 
 
 Android:
 - List Destination
