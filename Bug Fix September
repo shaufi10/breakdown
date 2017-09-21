@@ -1,0 +1,71 @@
+Bug Fix 
+
+Task Shaufi 
+
+Flight
+- Fix Icon to small change airport                                              : Durasi 1 Hari
+- Fix back step on step 3 to step 2 but always on 3                             : Durasi 1 Hari 
+- E-Ticket Activity                                                             : Durasi 2 Hari
+- Fast Checkout Button                                                          : *
+- Order Confirmation                                                            : Durasi 2 Hari
+- Fix back on step 4 to 3 but back to 2                                         : Durasi 1 Hari
+
+Train
+- Fix Icon to small change station                                              : Durasi 1 Hari
+- Fix Change button on list train crash                                         : Durasi 2 Hari
+- Fast Checkout Button                                                          : Durasi 1 Hari
+- E-Ticket Activity                                                             : *
+- Order Confirmation                                                            : *
+
+Task Naufal
+
+Flight                                                                          
+- Display Button Refresh in List Flight                                         : Durasi 2 Hari
+- Fix TOS                                                                       : Durasi 1 Hari
+- Give Information                                                              : Durasi 1 Hari
+- Check Booking History Work or Not                                             : Durasi 2 Hari
+
+Train
+- Display Button Refresh in List Train                                          : Durasi 1 Hari
+- Fix TOS                                                                       : *
+- Give Information                                                              : *
+- Fix Icon Adult on List Train                                                  : Durasi 1 Hari
+- Check Booking History Work or Not                                             : *
+- Fix Drawer name Station                                                       : Durasi 1 Hari
+- Fix Step 4 Details Passenger and Price                                        : Durasi 2 Hari
+- Sort Wagon Class Train Not Funtion                                            : Durasi 1 Hari
+
+Hotel 
+- Display Button Refresh in Listing Hotel                                       : *
+- Add Icon Bed and total passenger in Listing Hotels                            : Durasi 2 Hari
+
+Task Hari
+
+User
+- Forgot Password                                                               : Durasi 3 Hari
+- Edit Pin                                                                      : Durasi 
+
+Flight
+- Add Info tooltip Adult,Child,Infact                                           : Durasi 2 Hari
+- Fix Edit History Passenger Activity                                           : Durasi 1 Hari
+- Validate Firstname and Lastname                                               : Durasi 2 Hari
+- Flight Frequently Route                                                       : Durasi 2 Hari
+- Fix validation on step 3                                                      : Durasi 1 Hari
+- Logo maskapai Malindo, Malaysia Airlines                                      : Durasi 
+
+Train 
+- Fix validation on step 3                                                      : Durasi 1 Hari
+- Validate Firstname and Lastname                                               : *
+
+Hotel 
+- Form Calendar not Work                                                        : Durasi 1 Hari
+- Add Duration not Work                                                         : Durasi 1 Hari
+- List Destination not Work                                                     : Durasi 2 Hari
+
+
+
+Task Eka
+
+- Customer Service                                                              : Durasi 1 Hari
+- Create Icon Bed in Listing Hotels                                             : Durasi 3 Hari
+- Change UI new Sebasaku                                                        : Durasi 2 Hari
