@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "517204485730",
+    "firebase_url": "https://grinasia-a2619.firebaseio.com",
+    "project_id": "grinasia-a2619",
+    "storage_bucket": "grinasia-a2619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517204485730:android:0883e51bf1acfb6a",
+        "android_client_info": {
+          "package_name": "com.grinasia.grinasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517204485730-oaektkcfvtlmn0hqtfco6qj6ejlcvqv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grinasia.grinasia",
+            "certificate_hash": "6e1db23784a8d4ccddb094847f3544b809904cba"
+          }
+        },
+        {
+          "client_id": "517204485730-9c8bdlukaf5naoasq35ps6sek68dji87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grinasia.grinasia",
+            "certificate_hash": "173a80fa7c4c84855ed27b5f83256faf8a78d6f1"
+          }
+        },
+        {
+          "client_id": "517204485730-irn4rmtl3ucg9dhafvcqp3i76skgih1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grinasia.grinasia",
+            "certificate_hash": "a7d2fbd64747bebd3d121b78134badc0d5830094"
+          }
+        },
+        {
+          "client_id": "517204485730-gp0s7jrcr27g33ics6u3lmcld2vaump5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grinasia.grinasia",
+            "certificate_hash": "8def26858202c18540982b8fbb8854d2ed466545"
+          }
+        },
+        {
+          "client_id": "517204485730-iev9q6h3omaj5dhkanvks9qqj052g800.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTuNuZQeBgfoREciFUZnKsG5d-XEOS0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517204485730-iev9q6h3omaj5dhkanvks9qqj052g800.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
